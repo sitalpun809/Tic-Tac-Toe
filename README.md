@@ -26,7 +26,7 @@ gcc Tic_tac_toe.c -o Tic_tac_toe
 ```
 # On Windows
 ```DOS
-"Tic_tac_toe.exe"
+Tic_tac_toe.exe
 ```
 # How to play
 - The game start with an empty 3X3 grid number from 1 to 9.
