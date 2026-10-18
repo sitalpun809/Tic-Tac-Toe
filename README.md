@@ -24,9 +24,9 @@ gcc --version
 ```Bash
 "./Tic_tac_toe"
 # On Windows
-Bash
+DOS
 "Tic_tac_toe.exe"
-
+```
 # How to play
 - The game start with an empty 3X3 grid number from 1 to 9.
 - Player X goes first,followed by player O.
