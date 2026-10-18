@@ -11,17 +11,17 @@ A console/terminal basied **Tic-Tac-Toe** which is written in c program, a clean
 to compile and run this program you will need to download c compiler in your system.(such as **GCC**,**Clang**, or **MSVC**)
 
 you can check if GCC is installed by running this commans in the terminal:
-'''bash
+```bash
 gcc --version
 
 # How to compile and run
 **To compile the c program**
-Bash
+```Bash
 "gcc Tic_tac_toe.c -o Tic_tac_toe"
 
 **To run the c program**
 # On Linux/MacOS
-Bash
+```Bash
 "./Tic_tac_toe"
 # On Windows
 Bash
