@@ -13,18 +13,19 @@ to compile and run this program you will need to download c compiler in your sys
 you can check if GCC is installed by running this commans in the terminal:
 ```bash
 gcc --version
-
+```
 # How to compile and run
 **To compile the c program**
 ```Bash
-"gcc Tic_tac_toe.c -o Tic_tac_toe"
-
+gcc Tic_tac_toe.c -o Tic_tac_toe
+```
 **To run the c program**
 # On Linux/MacOS
 ```Bash
-"./Tic_tac_toe"
+./Tic_tac_toe
+```
 # On Windows
-DOS
+```DOS
 "Tic_tac_toe.exe"
 ```
 # How to play
