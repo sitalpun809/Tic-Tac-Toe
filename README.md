@@ -33,4 +33,5 @@ Bash
 - Enter the corresponding number where you want to place your mark.
 - The first player to align 3 of their marks horozontally, vertically, or diagnoally wins the game. If the all 9 spots are wihtout a winner then the game ends in a draw
 
+# Author
 Created by **Sital Pun**
