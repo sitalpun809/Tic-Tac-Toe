@@ -16,7 +16,7 @@ you can check if GCC is installed by running this commans in the terminal:
 gcc --version
 ```
 # How to compile and run
-**To compile the c program**
+**To compile the c program**.
 **Bash**
 ```
 gcc Tic_tac_toe.c -o Tic_tac_toe
